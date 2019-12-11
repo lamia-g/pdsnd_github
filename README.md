@@ -13,3 +13,6 @@ Include the files used
 ### Credits
 My thanks for udacity team for all the great leasons
 https://www.udacity.com/
+
+I would like as well to thanks stackoverflow for helping in python codes
+ https://stackoverflow.com/
