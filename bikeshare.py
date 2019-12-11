@@ -21,7 +21,7 @@ def get_filters():
     city = input("Please Enter City Name (Options: 'chicago', 'new york city','washington') ")
     while city not in list(CITY_DATA.keys()):
         print("invalid input!")
-        city = input("Please Enter City Name (Options: 'chicago', 'new york city','washington') ")
+        city = input("please choose one city) ")
 
     # TO DO: get user input for month (all, january, february, ... , june)
 
