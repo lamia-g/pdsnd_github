@@ -11,4 +11,8 @@ bikshare project was about making a program for bikeshare rents informations for
 bikeshare.py, chicago.csv, new_york_city.csv, washington.csv, README.md.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+My thanks for udacity team for all the great leasons
+https://www.udacity.com/
+
+I would like as well to thanks stackoverflow for helping in python codes
+ https://stackoverflow.com/
