@@ -8,7 +8,7 @@ this project about editing bikeshare project using git and uploading the files i
 bikshare project was about making a program for bikeshare rents informations for differents citis.
 
 ### Files used
-Include the files used
+bikeshare.py, chicago.csv, new_york_city.csv, washington.csv, README.md.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
