@@ -21,7 +21,7 @@ def get_filters():
     city = input("Please Enter City Name (Options: 'chicago', 'new york city','washington') ")
     while city not in list(CITY_DATA.keys()):
         print("invalid input!")
-        city = input("Please Enter City Name (Options: 'chicago', 'new york city','washington') ")
+        city = input("please choose one city) ")
 
     # TO DO: get user input for month (all, january, february, ... , june)
 
@@ -36,7 +36,7 @@ def get_filters():
     day = input("Please Enter a day or all for not specifying any day. ")
     while day not in DaysList:
        print("input is not possible!")
-       day = input("Please Enter a day or all for not specifying any day. ")
+       day = input("please choose one day or all. ")
 
     print('-'*40)
     return city, month, day
@@ -164,7 +164,7 @@ def user_stats(df):
 
     a=0
     while True:
-        ask=input("would you like to see more information? (yes or no)")
+        ask=input("would you like to see more information about your city? (yes or no)")
         if ask.lower() == "yes":
             print(df.iloc[a:a+5])
             a+=5
