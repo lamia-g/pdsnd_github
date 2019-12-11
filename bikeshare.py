@@ -164,7 +164,7 @@ def user_stats(df):
 
     a=0
     while True:
-        ask=input("would you like to see more information? (yes or no)")
+        ask=input("would you like to see more information about your city? (yes or no)")
         if ask.lower() == "yes":
             print(df.iloc[a:a+5])
             a+=5
