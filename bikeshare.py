@@ -35,7 +35,7 @@ def get_filters():
     DaysList = ["sunday","monday","tuesday","wednesday","thursday","friday","saturday","all"]
     day = input("Please Enter a day or all for not specifying any day. ")
     while day not in DaysList:
-       print("invalid input!")
+       print("input is not possible!")
        day = input("Please Enter a day or all for not specifying any day. ")
 
     print('-'*40)
