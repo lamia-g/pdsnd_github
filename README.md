@@ -1,10 +1,11 @@
 ### Date created
 10/dec/ 2019
 ### Project Title
-bikeshare 
+bikeshare
 
 ### Description
-Describe what your project is about and what it does
+this project about editing bikeshare project using git and uploading the files in github.
+bikshare project was about making a program for bikeshare rents informations for differents citis.
 
 ### Files used
 Include the files used
